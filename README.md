@@ -11,7 +11,7 @@ Does not work if Admins try to use it!
 ## How to setup:
 
 ### Easy Way
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Skuzzers/TagAdminsBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cancinconntg/TagAdminsBot)
 
 
 ### Manual Way

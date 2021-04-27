@@ -3,13 +3,13 @@ from pyrogram.types import Message
 from tagadmin import COMMAND_HAND_LER, LOGGER
 
 
-@Client.on_message(filters.regex("(?i)@admin(s)?"))
+@Client.on_message(filters.regex("(?i)@all(s)?"))
 async def tag_admins(c: Client, m: Message):
 
     adminslist = []
 
     if m.chat.type in ("supergroup", "group"):
-        async for member in c.iter_chat_members(m.chat.id, filter="administrators"):
+        async for member in c.iter_chat_members(m.chat.id):
             adminslist.append(member.user.id)
 
         if m.from_user.id in adminslist:
@@ -19,7 +19,7 @@ async def tag_admins(c: Client, m: Message):
             )
             return
 
-        mentions = "Hey **{}** Admins, look here!"
+        mentions = "Hey **{}** Member, look here!"
         admin_count = 0
 
         async for a in alladmins:

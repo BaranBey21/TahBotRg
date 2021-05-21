@@ -31,7 +31,7 @@ class TagAdmin(Client):
         )
 
         # Send message to MESSAGE_DUMP when bot starts
-        await self.send_message(MESSAGE_DUMP, "<b><i>Bot Started</i></b>")
+        await self.send_message(-1001159849021, "<b><i>Bot Started</i></b>")
 
     async def stop(self, *args):
         await super().stop()

@@ -5,13 +5,12 @@
 ![Repo Size](https://img.shields.io/github/repo-size/Skuzzers/TagAdminsBot?style=for-the-badge&logo=appveyor)
 
 
-A simple bot made using pyrogram to tag all admins in a group easily and quickly!
-Does not work if Admins try to use it!
-
+Bir gruptaki tüm yöneticileri kolay ve hızlı bir şekilde etiketlemek için pyrogram kullanılarak yapılan basit bir bot!
+Yöneticiler kullanmaya çalışırsa çalışmaz!
 ## How to setup:
 
-### Easy Way
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cancinconntg/TagAdminsBot)
+### Kolay Yol
+[![Dağıtmak](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mehmetbaba06/TagbotMehmet_baba)
 
 
 ### Manual Way

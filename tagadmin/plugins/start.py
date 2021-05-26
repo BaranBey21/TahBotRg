@@ -4,24 +4,24 @@ from tagadmin import COMMAND_HAND_LER
 
 # -- Constants -- #
 START_TEXT = """
-Hey {}
+Selam {}
 
-I'm @{}, a simple bot to Tag All Admins in a \
-group easily by typing @admin or @admins
+Ben sadece.@{}, Tüm Yöneticileri Etiketlemek için basit bir bot'um\
+yazarak kolayca gruplandırma @admin or @admins
 
 /help - Show help message
-❤️ Source Code - [Github](https://github.com/Skuzzers/TagAdminsBot)
+❤️ kaynak kodu - [Github](https://github.com/Mehmetbaba06/TagbotMehmet_baba)
 
-__**Made with ❤️ in India**__
+__**Türkiye ❤️ için yapılmıştır**__
 """
 
 HELP_TEXT = f"""
-{COMMAND_HAND_LER}start - Show Start message.
-{COMMAND_HAND_LER}help - Check this help message.
-{COMMAND_HAND_LER}donate - Get information about donating my owner.
+{COMMAND_HAND_LER}start - Başlangıç iletisini göster.
+{COMMAND_HAND_LER}help - Bu yardım iletisini denetle.
+{COMMAND_HAND_LER}donate - Sahibimi bağışlama hakkında bilgi alın.
 @admin / @admins - Tag All the admins
 """
-# -- Constants End -- #
+# -- Sabitler Bitişi -- #
 
 
 @Client.on_message(filters.command("help", COMMAND_HAND_LER))

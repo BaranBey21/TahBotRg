@@ -19,7 +19,7 @@ async def tag_admins(c: Client, m: Message):
             )
             return
 
-        mentions = "Hey **{}** Member, look here!"
+        mentions = "Hey **{}** Üye, Buraya bak!"
         admin_count = 0
 
         async for a in alladmins:

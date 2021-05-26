@@ -1,7 +1,7 @@
 {
     "name": "TagAdminsBot",
-    "repository": "https://github.com/SkuzzyxD/TagAdminsBot",
-    "description": "A simple bot to call all admins in a Group!",
+    "repository": "https://github.com/Mehmetbaba06/TagbotMehmet_baba",
+    "description": "Gruptaki tüm yöneticileri aramak için basit bir bot!",
     "keywords": [
         "pyrogram",
         "telegram",
@@ -24,42 +24,42 @@
             "value": ""
         },
         "TG_BOT_TOKEN": {
-            "description": "Your Bot API Token",
+            "description": "Sizin Bot API Token",
             "required": true,
             "value": ""
         },
         "OWNER_ID": {
-            "description": "Your Telegram User ID.",
+            "description": "Sizin Telegram kullanıcı ID.",
             "required": true,
             "value": ""
         },
         "TMP_DIR": {
-            "description": "Temporary Directory for session, Leave it as default.",
+            "description": "Oturum için Geçici Dizin, Varsayılan Olarak Bırak.",
             "required": true,
             "value": "./TEMP/"
         },
         "CHANNEL": {
-            "description": "A simple which bot will show to check for updates and help.",
+            "description": "Güncellemeleri kontrol etmek ve kanala yardım etmek için botun göstereceği basit bir kanal.",
             "required": true,
             "value": ""
         },
         "COMMAND_HAND_LER": {
-            "description": "Command handler for Bot, enter only 1.",
+            "description": "Bot için komut işleyicisi, yalnızca 1.",
             "required": true,
             "value": "/"
         },
         "CONTACT_OWNER": {
-            "description": "Your Livegram bot, or your Username if you want people to contact you!",
+            "description": "İnsanların sizinle iletişim kurmasını istiyorsanız Livegram botunuz veya Kullanıcı Adınız!",
             "required": true,
             "value": ""
         },
         "MESSAGE_DUMP": {
-            "description": "A Supergroup ID with which starts with -100",
+            "description": "Ile başlayan bir Supergroup kimliği -100",
             "required": true,
             "value": "-100"
         },
         "ENV": {
-            "description": "Set as True if you want to use Heroku, which means leave it as it is!",
+            "description": "Heroku'yu kullanmak istiyorsanız True olarak ayarlayın, yani olduğu gibi bırakın!",
             "required": true,
             "value": "True"
         }

@@ -36,7 +36,7 @@ class TagAdmin(Client):
     async def stop(self, *args):
         await super().stop()
         # Show message in LOGGER when bot stops
-        LOGGER.info("TagAdminsBot stopped!\nkthxbye...!")
+        LOGGER.info("RG Tag Bot Durdu!\nkthxbye...!")
 
 
 if __name__ == "__main__":

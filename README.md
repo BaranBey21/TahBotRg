@@ -10,7 +10,7 @@ Yöneticiler kullanmaya çalışırsa çalışmaz!
 ## How to setup:
 
 ### Kolay Yol
-[![Dağıtmak](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mehmetbaba06/TagbotMehmet_baba)
+[![Dağıtmak](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/desvelad/TahBotRg)
 
 
 ### Manual Way

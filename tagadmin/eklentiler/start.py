@@ -10,7 +10,7 @@ Ben sadece.@{}, Tüm Yöneticileri Etiketlemek için basit bir bot'um\
 yazarak kolayca gruplandırma @admin or @admins
 
 /help - Show help message
-❤️ kaynak kodu - [Github](https://github.com/Mehmetbaba06/TagbotMehmet_baba)
+❤️ kaynak kodu - [Github](https://github.com/desvelad/TahBotRg)
 
 __**Türkiye ❤️ için yapılmıştır**__
 """

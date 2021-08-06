@@ -40,7 +40,6 @@
         },
         "CHANNEL": {
             "description": "Güncellemeleri kontrol etmek ve kanala yardım etmek için botun göstereceği basit bir kanal.",
-
             "value": ""
         },
         "COMMAND_HAND_LER": {

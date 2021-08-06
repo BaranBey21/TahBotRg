@@ -39,8 +39,7 @@
             "value": "./TEMP/"
         },
         "CHANNEL": {
-            "description": "Güncellemeleri kontrol etmek ve kanala yardım etmek için botun göstereceği basit bir kanal.",
-            "value": ""
+            "description": "Güncellemeleri kontrol etmek ve kanala yardım etmek için botun göstereceği basit bir kanal."
         },
         "COMMAND_HAND_LER": {
             "description": "Bot için komut işleyicisi, yalnızca 1.",
